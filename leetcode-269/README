@@ -3,7 +3,8 @@
 
 Given two sets
 
-words ["cat", "bat", "mat" )
+words = ["cat", "bat", "mat" ]
+// assume all words are of same length
 
 ordering = [c,b,a,t]
 
