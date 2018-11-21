@@ -1,0 +1,13 @@
+
+
+Given two sets
+
+words ["cat", "bat", "mat" )
+
+ordering = [c,b,a,t]
+
+Return TRUE when the words in words[] are sorted in lexographic order as in ordering[]
+
+it is leetcode hard, but I think it was easier.
+
+
