@@ -5,7 +5,10 @@
 #         self.left = None
 #         self.right = None
 
-
+def goDown(root, lvl):
+        if (root==None): return lvl
+        lvl += 1 
+        return max(goDown(root.left, lvl), goDown(root.right, lvl))
 
 class Solution(object):
     def maxDepth(self, root):
@@ -13,12 +16,4 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
-        lvl = 0
-        if (root==None): return 0
-        return self.goDown (root, 0)
-
-    def goDown(self, root, lvl):
-        llvl = rlvl = lvl+1
-        if (root.left) : llvl = goDown(root.left, lvl)
-        if (root.right): rlvl = goDown(root.right, lvl)
-        return max(llvl, rlvl)
+        return goDown (root, 0)
