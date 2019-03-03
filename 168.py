@@ -14,12 +14,16 @@ class Solution(object):
         remainders = []
 	#pdb.set_trace()
         while (n >0):
+	    print ( " ", n)
             remainders.insert(0, (n-1)%26)
             n = (n-1)/26
+	print (remainders)
         for r in remainders :
             buf+=allS[r]
         return buf
 
-for x in range(28):
-          print (x,Solution().convertToTitle(x))
-# print (Solution().convertToTitle(28))
+# for x in range(28):
+#           print (x,Solution().convertToTitle(x))
+print (Solution().convertToTitle(26))
+print (Solution().convertToTitle(27))
+print (Solution().convertToTitle(500))
