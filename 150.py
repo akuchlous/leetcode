@@ -1,29 +1,17 @@
-from operator import *
-
-class Solution(object):
-    def evalRPN(self, tokens):
-        """
-        :type tokens: List[str]
-        :rtype: int
-        """
-        mapOp = {
-            "+": add,
-            "-": sub,
-            "*": mul,
-            "/": div
-        }
+class Solution:
+    def evalRPN(self, tokens: List[str]) -> int:
         stack = []
-        for t in tokens:
-            if t in "+-*/":
-                a = stack.pop()
-                b = stack.pop()
-                stack.append(mapOp[t](a,b))
+        operators = {
+            '+': lambda x, y: x + y,
+            '-': lambda x, y: x - y,
+            '*': lambda x, y: x * y,
+            '/': lambda x, y: x // y if x * y >= 0 else int(math.ceil(x / y)),
+        }
+        for s in tokens:
+            if s in operators:
+                op2, op1 = stack.pop(), stack.pop()
+                stack.append(operators[s](op1, op2))
             else:
-                stack.append(int(t))
-
-	return stack[0]
-# print (Solution().evalRPN(["2", "1", "+", "3", "*"]))
-# print (Solution().evalRPN(["4", "13", "5", "/", "+"]))
-# print (Solution().evalRPN(["4", "3", "-"]))
-print (Solution().evalRPN(["10","6","9","3","+","-11","*","/","*","17","+","5","+"]))
-
+                stack.append(int(s))
+        return stack.pop()
+        
