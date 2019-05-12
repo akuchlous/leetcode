@@ -60,3 +60,10 @@ May 11:
 103
 
 ----------------------------------------------
+May 12 :
+Easy : 118 : Array : https://leetcode.com/problems/pascals-triangle/
+Medium : 63 : Array :  https://leetcode.com/problems/unique-paths-ii/
+Easy : 169 : Search : https://leetcode.com/problems/majority-element/
+medium : Search : 973:  https://leetcode.com/problems/k-closest-points-to-origin/
+
+
