@@ -52,7 +52,7 @@ May 9 :
 19
 
 ----------------------------------------------
-May 11: 
+May 11:  Saturday
 35
 167
 66
@@ -60,10 +60,23 @@ May 11:
 103
 
 ----------------------------------------------
-May 12 :
+May 12 : Sunday
 Easy : 118 : Array : https://leetcode.com/problems/pascals-triangle/
 Medium : 63 : Array :  https://leetcode.com/problems/unique-paths-ii/
 Easy : 169 : Search : https://leetcode.com/problems/majority-element/
 medium : Search : 973:  https://leetcode.com/problems/k-closest-points-to-origin/
+
+----------------------------------------------
+May 14 : Tuesday
+Easy : 104 : https://leetcode.com/problems/maximum-depth-of-binary-tree/
+Easy : 108 : https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+Medium : 86 : https://leetcode.com/problems/partition-list/
+Medium : 139 : https://leetcode.com/problems/word-break/
+
+
+
+
+
 
 
