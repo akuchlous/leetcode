@@ -74,9 +74,11 @@ Easy : 108 : https://leetcode.com/problems/convert-sorted-array-to-binary-search
 Medium : 86 : https://leetcode.com/problems/partition-list/
 Medium : 139 : https://leetcode.com/problems/word-break/
 
+----------------------------------------------
+May 15: Wednesday
 
-
-
-
-
-
+107 : Easy : https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ : MSFT , FB
+122 : Easy : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ : AMZN, GOOG, FB, Uber
+50  : Medium : https://leetcode.com/problems/powx-n/ : FB, AMZN, GOOG, LNKD
+73  : Medium : https://leetcode.com/problems/set-matrix-zeroes/ : APPLE 
+37 : Hard : https://leetcode.com/problems/sudoku-solver/ : MSFT, GOOG, FB, AMZN, VMWare
