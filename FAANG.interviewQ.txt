@@ -82,3 +82,18 @@ May 15: Wednesday
 50  : Medium : https://leetcode.com/problems/powx-n/ : FB, AMZN, GOOG, LNKD
 73  : Medium : https://leetcode.com/problems/set-matrix-zeroes/ : APPLE 
 37 : Hard : https://leetcode.com/problems/sudoku-solver/ : MSFT, GOOG, FB, AMZN, VMWare
+
+----------------------------------------------
+May 16: Thursday
+
+
+Easy : 28 : https://leetcode.com/problems/implement-strstr/
+Easy : 67 : https://leetcode.com/problems/add-binary/
+medium : 71 : https://leetcode.com/problems/simplify-path/
+Medium: 79 : https://leetcode.com/problems/word-search/
+
+Hard : 32 : https://leetcode.com/problems/longest-valid-parentheses/
+
+----------------------------------------------
+
+
