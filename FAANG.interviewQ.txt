@@ -96,4 +96,33 @@ Hard : 32 : https://leetcode.com/problems/longest-valid-parentheses/
 
 ----------------------------------------------
 
+May 18: Saturday 
+367	Valid Perfect Square    
+400	Nth Digit    
+	
+Medium:
+221	Maximal Square    
+213	House Robber II    
+
+Hard: 629 K Inverse Pairs Array    
+
+----------------------------------------------
+
+May 19 : Sunday 
+268 : Easy : https://leetcode.com/problems/missing-number/ : AMZN, GOOG, AAPL
+278 : Easy : https://leetcode.com/problems/first-bad-version/ : FB, GOOG
+92 :  Meidum : https://leetcode.com/problems/reverse-linked-list-ii/ : FB, AMZN, GOOG
+130 : Medium : https://leetcode.com/problems/surrounded-regions/ : Uber, Splunk
+
+----------------------------------------------
+
+May 21 : Tuesday
+204 : Easy : https://leetcode.com/problems/count-primes/ :  MSFT, GOOG, AAPL
+232. Easy : https://leetcode.com/problems/implement-queue-using-stacks/ : AMZN, MSFT, AAPL, GOOG
+78 : Medium : https://leetcode.com/problems/subsets/ : FB, AMZN, GOOG, APPL
+98: Mdium : https://leetcode.com/problems/validate-binary-search-tree/ : FB, AMZN, GOOG
+
+
+----------------------------------------------
+
 
