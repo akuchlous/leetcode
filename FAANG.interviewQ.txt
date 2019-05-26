@@ -125,4 +125,35 @@ May 21 : Tuesday
 
 ----------------------------------------------
 
+May 22 : 
+190 : Easy : https://leetcode.com/problems/reverse-bits/
+231 : Easy : https://leetcode.com/problems/power-of-two/
+11 : Medium : https://leetcode.com/problems/container-with-most-water/
+120 : Medium : https://leetcode.com/problems/triangle/
+
+----------------------------------------------
+May 23: 
+13: Easy : https://leetcode.com/problems/roman-to-integer/ : AMZN, AAPL, GOOG
+172: Wasy : https://leetcode.com/problems/factorial-trailing-zeroes/ : MSFT
+
+80 : Medium:  https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/ : Baidu
+
+(similar to  yesterday pyramid)
+113 : Medium : https://leetcode.com/problems/path-sum-ii/ : AMZN, GOOG, MSFT
+
+10 : HARD : For Home :  https://leetcode.com/problems/regular-expression-matchin
+
+----------------------------------------------
+May 26 :
+Easy : 
+
+125 : https://leetcode.com/problems/valid-palindrome/ : AMZN, FB, GOOG
+155 : https://leetcode.com/problems/min-stack/ : AMZN
+
+Medium:
+93 : https://leetcode.com/problems/restore-ip-addresses/ : AMZN , FB (backtracking)
+147 : https://leetcode.com/problems/insertion-sort-list/
+
+----------------------------------------------
+
 
