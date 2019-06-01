@@ -165,3 +165,20 @@ May 28 :
 
 ----------------------------------------------
 
+May 29 : 
+868 Easy : Binary Gap : https://leetcode.com/problems/binary-gap/
+453. Easy :  Minimum Moves to Equal Array Elements :  https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+
+300 Medium : Longest Increasing Subsequence : https://leetcode.com/problems/longest-increasing-subsequence/
+468 : Medium : Validate IP Address : https://leetcode.com/problems/validate-ip-address/
+
+
+----------------------------------------------
+
+June 1 :
+371 :  Sum of Two Integers : https://leetcode.com/problems/sum-of-two-integers/
+374 :  Guess Number Higher or Lower https://leetcode.com/problems/guess-number-higher-or-lower/
+210 :  Course Schedule II : https://leetcode.com/problems/course-schedule-ii/
+211. Add and Search Word - Data structure design : https://leetcode.com/problems/add-and-search-word-data-structure-design/
+
+
