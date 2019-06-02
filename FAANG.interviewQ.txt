@@ -182,3 +182,12 @@ June 1 :
 211. Add and Search Word - Data structure design : https://leetcode.com/problems/add-and-search-word-data-structure-design/
 
 
+----------------------------------------------
+June 2 :  FB
+Easy: 
+415. Add Strings https://leetcode.com/problems/add-strings/
+437. Path Sum III : https://leetcode.com/problems/path-sum-iii/
+
+Medium: 
+48 : Rotate Image : https://leetcode.com/problems/rotate-image/  (tricky)
+238. Product of Array Except Self : https://leetcode.com/problems/product-of-array-except-self/
