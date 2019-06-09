@@ -220,4 +220,18 @@ June 6 :  Uber
 417. Pacific Atlantic Water Flow : https://leetcode.com/problems/pacific-atlantic-water-flow/
 
 ----------------------------------------------
+June 8 : Twilio 
+Easy : 
+965. Univalued Binary Tree https://leetcode.com/problems/univalued-binary-tree/
+1002. Find Common Characters : https://leetcode.com/problems/find-common-characters/
+Medium : 
+974. Subarray Sums Divisible by K https://leetcode.com/problems/subarray-sums-divisible-by-k/
+560. Subarray Sum Equals K : https://leetcode.com/problems/subarray-sum-equals-k/
+
+
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
 
