@@ -251,6 +251,8 @@ Easy :
 (marked easy, but is medium)
 1037 Valid Boomerang :  https://leetcode.com/problems/valid-boomerang/
 1047 Remove All Adjacent Duplicates In String : https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+720. Longest Word in Dictionary  : https://leetcode.com/problems/longest-word-in-dictionary/
+905. Sort Array By Parity : https://leetcode.com/problems/sort-array-by-parity/
 
 Medium:
 221 Maximal Square : https://leetcode.com/problems/maximal-square/
