@@ -246,6 +246,15 @@ Easy :
 166 Fraction to Recurring Decimal https://leetcode.com/problems/fraction-to-recurring-decimal/
 
 ----------------------------------------------
+June  12 : Google  (Challenging questions today)
+Easy : 
+(marked easy, but is medium)
+1037 Valid Boomerang :  https://leetcode.com/problems/valid-boomerang/
+1047 Remove All Adjacent Duplicates In String : https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+
+Medium:
+221 Maximal Square : https://leetcode.com/problems/maximal-square/
+228 Summary Ranges : https://leetcode.com/problems/summary-ranges/
 ----------------------------------------------
 ----------------------------------------------
 
