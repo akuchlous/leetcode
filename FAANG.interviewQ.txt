@@ -268,7 +268,21 @@ June 13 : Facebook
 
 
 ----------------------------------------------
+June 15 :
+303 Range Sum Query - Immutable : https://leetcode.com/problems/range-sum-query-immutable/
+120 Triangle : https://leetcode.com/problems/triangle/
+47 Permutations II : https://leetcode.com/problems/permutations-ii/
+996 Number of Squareful Arrays : https://leetcode.com/problems/number-of-squareful-arrays/
 ----------------------------------------------
+June 16 : LinkedIn
+Easy : 
+198 House Robber https://leetcode.com/problems/house-robber/
+Medium: 
+450 Delete Node in a BST  : https://leetcode.com/problems/delete-node-in-a-bst/
+647 Palindromic Substrings : https://leetcode.com/problems/palindromic-substrings/
+655 Print Binary Tree https://leetcode.com/problems/print-binary-tree/
+Hard:
+715 Range Module : https://leetcode.com/problems/range-module/
 ----------------------------------------------
 ----------------------------------------------
 
