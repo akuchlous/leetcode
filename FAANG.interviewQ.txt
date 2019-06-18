@@ -284,6 +284,16 @@ Medium:
 Hard:
 715 Range Module : https://leetcode.com/problems/range-module/
 ----------------------------------------------
+June 18 : Adobe 
+Easy :
+189 Rotate Array : https://leetcode.com/problems/rotate-array/
+657 Robot Return to Origin https://leetcode.com/problems/robot-return-to-origin/
+Medium:
+95 Unique Binary Search Trees II https://leetcode.com/problems/unique-binary-search-trees-ii/
+287 Find the Duplicate Number : https://leetcode.com/problems/find-the-duplicate-number/
+
+Hard:
+72 Edit Distance https://leetcode.com/problems/edit-distance/
 ----------------------------------------------
 
 ----------------------------------------------
