@@ -295,6 +295,15 @@ Medium:
 Hard:
 72 Edit Distance https://leetcode.com/problems/edit-distance/
 ----------------------------------------------
+June 19: Facebook
+Easy:
+953 Verifying an Alien Dictionary : https://leetcode.com/problems/verifying-an-alien-dictionary/
+766 Toeplitz Matrix : https://leetcode.com/problems/toeplitz-matrix/
+872 Leaf-Similar Trees https://leetcode.com/problems/leaf-similar-trees/
+Medium: 
+310 Minimum Height Trees https://leetcode.com/problems/minimum-height-trees/
+332 Reconstruct Itinerary : https://leetcode.com/problems/reconstruct-itinerary/Hard:
+336 Palindrome Pairs https://leetcode.com/problems/palindrome-pairs/
 
 ----------------------------------------------
 
