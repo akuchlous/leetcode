@@ -306,4 +306,22 @@ Medium:
 336 Palindrome Pairs https://leetcode.com/problems/palindrome-pairs/
 
 ----------------------------------------------
+June 20 : 
+Easy: 
+219. Contains Duplicate II https://leetcode.com/problems/contains-duplicate-ii/
+404. Sum of Left Leaves https://leetcode.com/problems/sum-of-left-leaves/
+400. Nth Digit https://leetcode.com/problems/nth-digit/
+
+Medium:
+34. Find First and Last Position of Element in Sorted Array
+162. Find Peak Element https://leetcode.com/problems/find-peak-element/
+
+
+Hard: 
+312. Burst Balloons https://leetcode.com/problems/burst-balloons/
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
 
