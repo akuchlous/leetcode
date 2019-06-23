@@ -320,7 +320,7 @@ Medium:
 Hard: 
 312. Burst Balloons https://leetcode.com/problems/burst-balloons/
 ----------------------------------------------
-June 22 : 
+June 22 : Facebook
 Easy : 
 1029. Two City Scheduling : https://leetcode.com/problems/two-city-scheduling/
 1022. Sum of Root To Leaf Binary Numbers https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
@@ -331,6 +331,16 @@ Medium:
 117. Populating Next Right Pointers in Each Node II : https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 
 ----------------------------------------------
+June 23: Bloomberg
+Easy : 
+628. Maximum Product of Three Numbers https://leetcode.com/problems/maximum-product-of-three-numbers/
+821. Shortest Distance to a Character https://leetcode.com/problems/shortest-distance-to-a-character/
+771. Jewels and Stones https://leetcode.com/problems/jewels-and-stones/
+Medium: 
+200. Number of Islands : https://leetcode.com/problems/number-of-islands/
+797. All Paths From Source to Target : https://leetcode.com/problems/all-paths-from-source-to-target/
+698. Partition to K Equal Sum Subsets : https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
