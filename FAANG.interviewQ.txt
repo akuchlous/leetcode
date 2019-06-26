@@ -342,6 +342,15 @@ Medium:
 698. Partition to K Equal Sum Subsets : https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 
 ----------------------------------------------
+June 25 : Baidu
+Easy:
+543. Diameter of Binary Tree https://leetcode.com/problems/diameter-of-binary-tree/
+724. Find Pivot Index https://leetcode.com/problems/find-pivot-index/
+461 Hamming Distance : https://leetcode.com/problems/hamming-distance/
+Medium:
+289. Game of Life https://leetcode.com/problems/game-of-life/
+153. Find Minimum in Rotated Sorted Array https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+413. Arithmetic Slices https://leetcode.com/problems/arithmetic-slices/
 ----------------------------------------------
 ----------------------------------------------
 
