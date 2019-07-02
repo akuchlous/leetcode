@@ -352,5 +352,71 @@ Medium:
 153. Find Minimum in Rotated Sorted Array https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 413. Arithmetic Slices https://leetcode.com/problems/arithmetic-slices/
 ----------------------------------------------
+June 26 : Microsoft
+Easy:
+414. Third Maximum Number https://leetcode.com/problems/third-maximum-number/
+819. Most Common Word https://leetcode.com/problems/most-common-word/
+MEdium:
+701. Insert into a Binary Search Tree https://leetcode.com/problems/insert-into-a-binary-search-tree/
+1006. Clumsy Factorial https://leetcode.com/problems/clumsy-factorial/
+672. Bulb Switcher II https://leetcode.com/problems/bulb-switcher-ii/
+
+----------------------------------------------
+June 27 : Lyft 
+Easy: 20 minutes solve, 10 minutes discussion
+1041. Robot Bounded In Circle: https://leetcode.com/problems/robot-bounded-in-circle/
+193. Valid Phone Numbers https://leetcode.com/problems/valid-phone-numbers/
+Medium: 30 minutes solve, 10 minutes discussion
+622. Design Circular Queue https://leetcode.com/problems/design-circular-queue/
+334. Increasing Triplet Subsequence https://leetcode.com/problems/increasing-triplet-subsequence/
+Hard:  Try to solve
+815. Bus Routes https://leetcode.com/problems/bus-routes/
+----------------------------------------------
+June 29: Walmart Labs 
+Easy:
+697. Degree of an Array https://leetcode.com/problems/degree-of-an-array/
+876. Middle of the Linked List https://leetcode.com/problems/middle-of-the-linked-list/
+Medium:
+54. Spiral Matrix : https://leetcode.com/problems/spiral-matrix/
+873. Length of Longest Fibonacci Subsequence : https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+We did 34 before, but try it again and present in the class
+34. Find First and Last Position of Element in Sorted Array : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+----------------------------------------------
+July 2 : 
+Taking question from GCP interview for google : 
+https://leetcode.com/discuss/interview-experience/324397/google-l3-gcp-sunnyvale-offer
+
+1. https://leetcode.com/discuss/interview-experience/324397/google-l3-gcp-sunnyvale-offer
+2. https://leetcode.com/problems/best-time-to-buy-and-sell-stock 
+3. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii 
+4. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+5. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv 
+6. https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+7. https://leetcode.com/problems/maximal-square
+
+
+8.
+    You are given an array of cells with positive points. Cell is described below
+
+    class Cell {
+    	// number of points in this cell
+    	int points;
+
+    	// returns list of neighbor cells that are children of this cell
+    	List<Cell> getNeighbors();
+
+    	// spreads from this cell to the inputted cell
+    	// spreading is defined as moving all points from the current cell into a cell that has a value less than 1
+    	// the result is the spreader has 1 point and the spreadee has (spreader + spreadee - 1) points
+    	// You can only spread to a heighboring cell
+    	void spread(Cell cell);
+    }
+
+    Assume all the cells in the input array have a point value greater than 1
+    Call spread starting at 1 cell and from each following cell that you are spreading to such that you fill in the most possible cells. (Note only start at 1 specific cell and spread from places that you spread to from this one)
+    Followup: Call spread such that the resulting graph has the most posible positive valued cells
+
+
+----------------------------------------------
 ----------------------------------------------
 
