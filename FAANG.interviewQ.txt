@@ -418,5 +418,23 @@ https://leetcode.com/discuss/interview-experience/324397/google-l3-gcp-sunnyvale
 
 
 ----------------------------------------------
+July 3 :
+Easy:
+754. Reach a Number https://leetcode.com/problems/reach-a-number/
+914. X of a Kind in a Deck of Cards https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
+Medium:
+935. Knight Dialer https://leetcode.com/problems/knight-dialer/
+923. 3Sum With Multiplicity https://leetcode.com/problems/3sum-with-multiplicity/
+Hard: 
+843. Guess the Word https://leetcode.com/problems/guess-the-word/
 ----------------------------------------------
-
+July 6 :  Adobe
+Easy :
+830. Positions of Large Groups https://leetcode.com/problems/positions-of-large-groups/
+669. Trim a Binary Search Tree : https://leetcode.com/problems/trim-a-binary-search-tree/
+Medium:
+131. Palindrome Partitioning https://leetcode.com/problems/palindrome-partitioning/
+120. Triangle : https://leetcode.com/problems/triangle/
+743. Network Delay Time https://leetcode.com/problems/network-delay-time/
+Hard :
+99. Recover Binary Search Tree https://leetcode.com/problems/recover-binary-search-tree/
