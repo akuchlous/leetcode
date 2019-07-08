@@ -438,3 +438,17 @@ Medium:
 743. Network Delay Time https://leetcode.com/problems/network-delay-time/
 Hard :
 99. Recover Binary Search Tree https://leetcode.com/problems/recover-binary-search-tree/
+----------------------------------------------
+July 7 : EBay
+Easy:
+703. Kth Largest Element in a Stream https://leetcode.com/problems/kth-largest-element-in-a-stream/
+20. Valid Parentheses https://leetcode.com/problems/valid-parentheses/
+Medium:
+264. Ugly Number II https://leetcode.com/problems/ugly-number-ii/
+416. Partition Equal Subset Sum https://leetcode.com/problems/partition-equal-subset-sum/
+94. Binary Tree Inorder Traversal https://leetcode.com/problems/binary-tree-inorder-traversal/
+Hard: 
+239. Sliding Window Maximum https://leetcode.com/problems/sliding-window-maximum/
+----------------------------------------------
+
+
