@@ -472,6 +472,7 @@ Medium:
 Hard: 
 23. Merge k Sorted Lists : https://leetcode.com/problems/merge-k-sorted-lists/
 ----------------------------------------------
+July 11
 202. Happy Number https://leetcode.com/problems/happy-number/
 226. Invert Binary Tree https://leetcode.com/problems/invert-binary-tree/
 
@@ -480,7 +481,22 @@ Medium
 372. Super Pow https://leetcode.com/problems/super-pow/
 377. Combination Sum IV https://leetcode.com/problems/combination-sum-iv/
 ----------------------------------------------
+July 13 : 
+88
+819
+138
+79
+301
 ----------------------------------------------
+July 16 : Google
+easy : 
+788. Rotated Digits https://leetcode.com/problems/rotated-digits/
+804. Unique Morse Code Words https://leetcode.com/problems/unique-morse-code-words/
+Medium:
+209. Minimum Size Subarray Sum https://leetcode.com/problems/minimum-size-subarray-sum/
+449. Serialize and Deserialize BST https://leetcode.com/problems/serialize-and-deserialize-bst/
+Hard: 
+321. Create Maximum Number https://leetcode.com/problems/create-maximum-number/
 ----------------------------------------------
 
 
