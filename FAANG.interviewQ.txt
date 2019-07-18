@@ -499,6 +499,21 @@ Hard:
 321. Create Maximum Number https://leetcode.com/problems/create-maximum-number/
 ----------------------------------------------
 
+July 17 : FB
+Easy : 
+1033. Moving Stones Until Consecutive https://leetcode.com/problems/moving-stones-until-consecutive/
+896. Monotonic Array https://leetcode.com/problems/monotonic-array/
+
+Medium:
+192. Word Frequency https://leetcode.com/problems/word-frequency/
+220. Contains Duplicate III https://leetcode.com/problems/contains-duplicate-iii/
+
+Challenge HArd: 
+65. Valid Number https://leetcode.com/problems/valid-number/
+
+
+
+
 
 
 
