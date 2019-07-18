@@ -510,13 +510,15 @@ Medium:
 
 Challenge HArd: 
 65. Valid Number https://leetcode.com/problems/valid-number/
-
-
-
-
-
-
-
-
-
+----------------------------------------------
+June 18 : Glodman Sachs 
+Easy :
+111. Minimum Depth of Binary Tree https://leetcode.com/problems/minimum-depth-of-binary-tree/
+118. Pascal's Triangle : https://leetcode.com/problems/pascals-triangle/
+Medium
+688. Knight Probability in Chessboard https://leetcode.com/problems/knight-probability-in-chessboard/
+722. Remove Comments https://leetcode.com/problems/remove-comments/
+1109. Corporate Flight Bookings https://leetcode.com/problems/corporate-flight-bookings/
+Hard: 
+42. Trapping Rain Water https://leetcode.com/problems/trapping-rain-water/
 ----------------------------------------------
