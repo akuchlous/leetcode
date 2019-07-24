@@ -511,7 +511,7 @@ Medium:
 Challenge HArd: 
 65. Valid Number https://leetcode.com/problems/valid-number/
 ----------------------------------------------
-June 18 : Glodman Sachs 
+July 18 : Glodman Sachs 
 Easy :
 111. Minimum Depth of Binary Tree https://leetcode.com/problems/minimum-depth-of-binary-tree/
 118. Pascal's Triangle : https://leetcode.com/problems/pascals-triangle/
@@ -522,3 +522,20 @@ Medium
 Hard: 
 42. Trapping Rain Water https://leetcode.com/problems/trapping-rain-water/
 ----------------------------------------------
+July 21 : Amazon 
+Easy:
+994. Rotting Oranges https://leetcode.com/problems/rotting-oranges/ 
+617. Merge Two Binary Tree https://leetcode.com/problems/merge-two-binary-trees/
+Medium: 
+223. Rectangle Area https://leetcode.com/problems/rectangle-area/
+909. Snakes and Ladders https://leetcode.com/problems/snakes-and-ladders/
+120. Triangle https://leetcode.com/problems/triangle/
+----------------------------------------------
+
+July 23 : 
+
+107 : Easy : https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ : MSFT , FB
+122 : Easy : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ : AMZN, GOOG, FB, Uber
+50  : Medium : https://leetcode.com/problems/powx-n/ : FB, AMZN, GOOG, LNKD
+73  : Medium : https://leetcode.com/problems/set-matrix-zeroes/ : APPLE
+37 : Hard : https://leetcode.com/problems/sudoku-solver/ : MSFT, GOOG, FB, AMZN, VMWare
