@@ -134,13 +134,10 @@ May 22 :
 ----------------------------------------------
 May 23: 
 13: Easy : https://leetcode.com/problems/roman-to-integer/ : AMZN, AAPL, GOOG
-172: Wasy : https://leetcode.com/problems/factorial-trailing-zeroes/ : MSFT
-
+172: Easy : https://leetcode.com/problems/factorial-trailing-zeroes/ : MSFT
 80 : Medium:  https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/ : Baidu
-
 (similar to  yesterday pyramid)
 113 : Medium : https://leetcode.com/problems/path-sum-ii/ : AMZN, GOOG, MSFT
-
 10 : HARD : For Home :  https://leetcode.com/problems/regular-expression-matchin
 
 ----------------------------------------------
@@ -539,3 +536,51 @@ July 23 :
 50  : Medium : https://leetcode.com/problems/powx-n/ : FB, AMZN, GOOG, LNKD
 73  : Medium : https://leetcode.com/problems/set-matrix-zeroes/ : APPLE
 37 : Hard : https://leetcode.com/problems/sudoku-solver/ : MSFT, GOOG, FB, AMZN, VMWare
+
+----------------------------------------------
+July 24:
+
+Easy : 28 : https://leetcode.com/problems/implement-strstr/
+Easy : 67 : https://leetcode.com/problems/add-binary/
+medium : 71 : https://leetcode.com/problems/simplify-path/
+Medium: 79 : https://leetcode.com/problems/word-search/
+Hard : 32 : https://leetcode.com/problems/longest-valid-parentheses/
+----------------------------------------------
+
+July 25 : 
+367	Valid Perfect Square    
+400	Nth Digit    
+	
+Medium:
+221	Maximal Square    
+213	House Robber II    
+Hard: 629 K Inverse Pairs Array    
+----------------------------------------------
+
+July 27 :
+268 : Easy : https://leetcode.com/problems/missing-number/ : AMZN, GOOG, AAPL
+278 : Easy : https://leetcode.com/problems/first-bad-version/ : FB, GOOG
+92 :  Meidum : https://leetcode.com/problems/reverse-linked-list-ii/ : FB, AMZN, GOOG
+130 : Medium : https://leetcode.com/problems/surrounded-regions/ : Uber, Splunk
+
+----------------------------------------------
+July 28:
+204 : Easy : https://leetcode.com/problems/count-primes/ :  MSFT, GOOG, AAPL
+232. Easy : https://leetcode.com/problems/implement-queue-using-stacks/ : AMZN, MSFT, AAPL, GOOG
+78 : Medium : https://leetcode.com/problems/subsets/ : FB, AMZN, GOOG, APPL
+98: Medium : https://leetcode.com/problems/validate-binary-search-tree/ : FB, AMZN, GOOG
+
+----------------------------------------------
+July 30 : 
+190 : Easy : https://leetcode.com/problems/reverse-bits/
+231 : Easy : https://leetcode.com/problems/power-of-two/
+11 : Medium : https://leetcode.com/problems/container-with-most-water/
+120 : Medium : https://leetcode.com/problems/triangle/
+----------------------------------------------
+July 31 : 
+13: Easy : https://leetcode.com/problems/roman-to-integer/ : AMZN, AAPL, GOOG
+172: Easy : https://leetcode.com/problems/factorial-trailing-zeroes/ : MSFT
+80 : Medium:  https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/ : Baidu
+(similar to  yesterday pyramid)
+113 : Medium : https://leetcode.com/problems/path-sum-ii/ : AMZN, GOOG, MSFT
+10 : HARD : For Home :  https://leetcode.com/problems/regular-expression-matchin
