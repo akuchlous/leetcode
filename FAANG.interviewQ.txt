@@ -584,3 +584,16 @@ July 31 :
 (similar to  yesterday pyramid)
 113 : Medium : https://leetcode.com/problems/path-sum-ii/ : AMZN, GOOG, MSFT
 10 : HARD : For Home :  https://leetcode.com/problems/regular-expression-matchin
+
+----------------------------------------------
+Aug 1 :  FB
+Easy 
+1108 Defanging an IP Address    https://leetcode.com/problems/defanging-an-ip-address/
+917. Reverse Only Letters https://leetcode.com/problems/reverse-only-letters/
+Medium
+1123. Lowest Common Ancestor of Deepest Leaves https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+1043. Partition Array for Maximum Sum https://leetcode.com/problems/partition-array-for-maximum-sum/
+
+----------------------------------------------
+
+
